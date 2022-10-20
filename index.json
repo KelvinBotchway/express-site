@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "launch": {
+        "configurations": [
+
+        ]
+    },
+    "diffEditor.renderSideBySide": false,
+    "diffEditor.ignoreTrimWhitespace": false
+}
+{
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
